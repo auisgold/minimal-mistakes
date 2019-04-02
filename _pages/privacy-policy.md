@@ -1,5 +1,5 @@
 ---
-permalink: /terms/
+permalink: /privacy-policy/
 title: "Terms and Privacy Policy"
 last_modified_at: 2019-04-02T12:42:38-04:00
 toc: true
