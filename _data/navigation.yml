@@ -4,10 +4,10 @@ main:
     url: /about/
   - title: "Projects"
     url: /projects/
-  - title: "Sitemap"
-    url: /sitemap/
   - title: "Map Links"
     url: /maplinks/
+  - title: "Terms and Privacy Policy"
+    url: /privacy-policy/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
