@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Map Links"
-permalink: /sitemap/
+permalink: /maplinks/
 author_profile: false
 ---
 
