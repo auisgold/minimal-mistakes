@@ -7,6 +7,7 @@ tags:
   - Pokedraft
 ---
 
+## Pokedraft
 This is a video of me doing a Flareon solo for a Pokedraft league I am in. Curious what Pokedraft is? Pokedraft is kind of like fantasy football for Pokemon Go
 where you select specific Pokemon in order to defeat raid bosses and the person with the best time against these bosses wins. The pokemon I have selected 
 for this season are:
