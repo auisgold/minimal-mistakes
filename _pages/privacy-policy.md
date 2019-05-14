@@ -1,7 +1,7 @@
 ---
 permalink: /privacy-policy/
 title: "Terms and Privacy Policy"
-last_modified_at: 2019-04-02T12:42:38-04:00
+last_modified_at: 2019-05-08T12:42:38-04:00
 toc: true
 ---
 
@@ -48,5 +48,4 @@ What this means for you:
 * I do not and will not recommend a product just for the sake of making money.
 * I do not let the compensation I receive influence the content, topics, posts, or opinions expressed on this website.
 * I respect and value my readers too much to write anything other than my own genuine and objective opinions and advice.
-
-Just like this website, my Disclosure Policy is a work in progress. As the revenue streams evolve, so will this page.
+* If you'd like to know how Google uses your data you can read this article by clicking [here](https://policies.google.com/technologies/partner-sites). 
