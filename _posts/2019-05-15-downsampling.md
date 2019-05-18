@@ -14,10 +14,10 @@ In this small amount of MATLAB code we look into downsampling a music track as w
 
 ## Main Project
 
-1. **Introduction** 
+### 1. **Introduction** 
 We will use two MATLAB functions: downsampling.m and extractSound.m in order to demonstrate how downsampling works. extractSound.m creates a signal we can feed into downsampling.m as well as let us choose how many seconds we want our signal to be. downsampling.m then takes this signal and applies a low-pass filter and downsamples the song by using the conv function in MATLAB. This is then saved as a .wav file and can be listened to by anyone including your friends if you want them to guess what song you've downsampled.  
 
-2. **MATLAB functions** 
+### 2. **MATLAB functions** 
 
 extractSound.m
 
